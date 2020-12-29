@@ -1,9 +1,11 @@
 ### Hi there 👋
+[![nashikun's github stats](https://github-readme-stats.vercel.app/api?username=nashikun&count_private=true&show_icons=true&theme=onedark)](https://github.com/nashikun/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nashikun&theme=radient&hide=html)](https://github.com/nashikun/github-readme-stats)
 
 <!--
 **nashikun/nashikun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nashikun)](https://github.com/nashikun/github-readme-stats)
 
 Here are some ideas to get you started:
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+-->
